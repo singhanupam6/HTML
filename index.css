@@ -1,0 +1,42 @@
+#user{
+    border: 3px solid gray;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+#password{
+    border: 3px solid gray;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding: 20px;
+    color: gray;
+    font-size: 30px;
+    margin-left: 200px;
+}
+#html{
+   margin-left: 650px; 
+   color: gray;
+   font-size: 80px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+   margin-top: -200px;
+}
+#input{
+    margin-left: 575px; 
+    color: rgb(16, 189, 189);
+   font-size: 50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+}
+#value{
+    margin-left: 555px; 
+    color: gray;
+   font-size: 40px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
